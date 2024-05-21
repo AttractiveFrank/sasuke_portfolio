@@ -75,7 +75,7 @@ const AboutSection = () => {
         className={`about-2 leading-tight ${willChange ? "will-change-opacity" : ""
           }`}
       >
-        I'm always down for something new and challenging! I'm here to help you create beautifully formatted websites.
+        I am always down for something new and challenging! I am here to help you create beautifully formatted websites.
       </span>
     </h1>
   );
